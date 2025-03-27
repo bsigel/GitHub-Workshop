@@ -1,3 +1,5 @@
 This is a new file added to my repository.
 Create a conflict.
 This is a different edit.
+
+I am making edits on a branch.
